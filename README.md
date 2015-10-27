@@ -1,4 +1,6 @@
-# Cookie Cutter Script
+
+# Cookie Cutter Project Script 2
+
 Nicholas Allan & Isaac Menninga, october 27, 2015 
 
 
