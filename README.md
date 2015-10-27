@@ -1,7 +1,7 @@
 
 # Cookie Cutter Project Script 2
 
-Nicholas Allan & Isaac Menninga, october 27, 2015 
+##Nicholas Allan & Isaac Menninga, october 27, 2015 
 
 
 THIS project is a script which when run creates a directory structure for computational projects.
